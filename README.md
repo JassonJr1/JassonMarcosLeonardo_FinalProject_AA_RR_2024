@@ -19,6 +19,7 @@ Este projeto consiste na implementação de dois solvers SAT em C para determina
 
 - `sat_solver.c`: Implementa a solução utilizando geração de todas as atribuições possíveis.
 - `sat_solver_2.c`: Implementa a solução utilizando backtracking.
+- `sat_2SAT.c`: Solucionador para apenas 2SAT usando grafos que faz melhor que O(2^v)
   
 ## Compilação e Execução
 
