@@ -28,5 +28,6 @@ Este projeto consiste na implementação de dois solvers SAT em C para determina
 ```bash
 gcc sat_solver.c -o sat_solver
 gcc sat_solver_2.c -o sat_solver_2
+gcc sat_2SAT.c -o sat_2SAT
 
 
